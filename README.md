@@ -1,2 +1,8 @@
-# react-todo-app_vite
-Vite is a build tool that we can use to set up React projects. It provides faster installation and instant server start times compared to the create-react-app CLI. This makes it a go-to solution for most developers when creating a React project. See the npm trends against create-react-app
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
